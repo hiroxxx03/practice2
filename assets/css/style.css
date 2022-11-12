@@ -32,6 +32,7 @@ header{
 .header-menu{
   width: 100%;
   background-color: #333;
+  overflow: auto;
 }
 
 .header-menu-list{
