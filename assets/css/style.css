@@ -118,6 +118,8 @@ header{
 .read-more:hover::after{
   bottom: -4px;
   opacity: 0;
+  left: 10%;
+  width: 80%;
   visibility: hidden;
 }
 
